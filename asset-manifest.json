@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://ganitkumar517.github.io/csb-nqjmpc/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://ganitkumar517.github.io/csb-nqjmpc/static/js/main.99bc32bf.chunk.js",
+    "main.js.map": "https://ganitkumar517.github.io/csb-nqjmpc/static/js/main.99bc32bf.chunk.js.map",
+    "runtime-main.js": "https://ganitkumar517.github.io/csb-nqjmpc/static/js/runtime-main.5474312e.js",
+    "runtime-main.js.map": "https://ganitkumar517.github.io/csb-nqjmpc/static/js/runtime-main.5474312e.js.map",
+    "static/js/2.491408f5.chunk.js": "https://ganitkumar517.github.io/csb-nqjmpc/static/js/2.491408f5.chunk.js",
+    "static/js/2.491408f5.chunk.js.map": "https://ganitkumar517.github.io/csb-nqjmpc/static/js/2.491408f5.chunk.js.map",
+    "index.html": "https://ganitkumar517.github.io/csb-nqjmpc/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://ganitkumar517.github.io/csb-nqjmpc/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.491408f5.chunk.js.LICENSE.txt": "https://ganitkumar517.github.io/csb-nqjmpc/static/js/2.491408f5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5474312e.js",
+    "static/js/2.491408f5.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.99bc32bf.chunk.js"
+  ]
+}
